@@ -1,1 +1,2 @@
 # horiseon
+changed all <div> tags to a meaningful one's so others developers can understand the code more as <div> has no meaning plus changed similar classes, IDs and modified the CSS page to be more readable and remove repetitive stuff
